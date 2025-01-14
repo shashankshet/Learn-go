@@ -11,4 +11,6 @@ func main() {
 	hello.Constants()
 	hello.Loops()
 	hello.Condition()
+	hello.Switch()
+	hello.Array()
 }
