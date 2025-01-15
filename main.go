@@ -1,9 +1,5 @@
 package main
 
-import (
-	"go-hello-world/hello"
-)
-
 func main() {
 	// hello.Hello()
 	// hello.Values()
@@ -16,5 +12,7 @@ func main() {
 	// hello.Slice()
 	// hello.Maps()
 	// hello.Function()
-	hello.Range()
+	// hello.Range()
+	// hello.Pointers()
+	// hello.String()
 }
