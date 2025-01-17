@@ -19,5 +19,6 @@ func main() {
 	// hello.String()
 	// hello.StructNew()
 	// hello.Methods()
-	hello.InterfaceFunc()
+	// hello.InterfaceFunc()
+	hello.Enum()
 }
