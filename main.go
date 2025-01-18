@@ -20,5 +20,8 @@ func main() {
 	// hello.StructNew()
 	// hello.Methods()
 	// hello.InterfaceFunc()
-	hello.Enum()
+	// hello.Enum()
+	// hello.StructEmbeddings()
+	// hello.Errors()
+	hello.Goriutines()
 }
